@@ -34,8 +34,7 @@ c = [1;1;1;1];
 d = 1;
 f = d*dudx;
 k1 = 0.8*0.8;
-km1 = 0.7*0.2
-; %need to know equilibrium concentrations
+km1 = 0.7*0.2;
 s = [-u(1)*u(4)+u(2)*u(3); ... 
       u(1)*u(4)-u(2)*u(3); ...
       u(1)*u(4)-u(2)*u(3); ...
